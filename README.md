@@ -13,7 +13,7 @@
 About Me:
 I’m an AI/ML MSc Student with hands-on experience in building machine learning pipelines, developing predictive models, and deploying full-stack AI solutions. Proficient in Python, TensorFlow, Scikit-learn, and cloud-native DevOps tools. I have a strong ability to lead collaborative projects and apply machine learning techniques to solve real-world problems. As an excellent communicator, I can translate complex technical concepts into clear insights. 
 
-Feel free to add specific contact details or any fun fact you’d like!
+
 
 
 
