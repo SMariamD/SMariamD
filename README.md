@@ -11,7 +11,7 @@
 ⚡ Fun fact: I cqn think anout atleast 50 things at a time !
 
 About Me:
-I’m an AI/ML MSc Student with hands-on experience in building machine learning pipelines, developing predictive models, and deploying full-stack AI solutions. Proficient in Python, TensorFlow, Scikit-learn, and cloud-native DevOps tools. I have a strong ability to lead collaborative projects and apply machine learning techniques to solve real-world problems. As an excellent communicator, I can translate complex technical concepts into clear insights. Currently, I am seeking an AI/ML internship to apply and expand my technical, research, and problem-solving skills in a fast-paced, innovation-driven environment.
+I’m an AI/ML MSc Student with hands-on experience in building machine learning pipelines, developing predictive models, and deploying full-stack AI solutions. Proficient in Python, TensorFlow, Scikit-learn, and cloud-native DevOps tools. I have a strong ability to lead collaborative projects and apply machine learning techniques to solve real-world problems. As an excellent communicator, I can translate complex technical concepts into clear insights. 
 
 Feel free to add specific contact details or any fun fact you’d like!
 
