@@ -8,7 +8,7 @@
 
 📫 You can reach me via email:syedamariamdanish2020@gamil.com
 
-⚡ Fun fact: I cqn think anout atleast 50 things at a time !
+⚡ Fun fact: I can think about atleast 50 things at a time !
 
 About Me:
 I’m an AI/ML MSc Student with hands-on experience in building machine learning pipelines, developing predictive models, and deploying full-stack AI solutions. Proficient in Python, TensorFlow, Scikit-learn, and cloud-native DevOps tools. I have a strong ability to lead collaborative projects and apply machine learning techniques to solve real-world problems. As an excellent communicator, I can translate complex technical concepts into clear insights. 
